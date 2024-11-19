@@ -1,0 +1,16 @@
+.myNav{
+    background-color: #373d20 !important; /* Ensure background applies */
+    height: 50px;
+}
+.container-fluid{
+    background-color: #373d20 !important;
+}
+
+.myNav .navbar-brand,
+.myNav .nav-link {
+    color: #eff1ed !important; /* Override Bootstrap's styles */
+}
+
+.myNav .nav-link:hover {
+    color: #ffc9b9 !important; /* Optional: Change text color on hover */
+}
