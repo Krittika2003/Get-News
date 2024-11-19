@@ -13,9 +13,6 @@ const App=()=> {
    const page=9;
    const apiKey= process.env.REACT_APP_NEWS_API;
    const[progress,setProgress]=useState(0);
-  //  state= {
-  //   progress:0
-  // }
     return (
       <>
         <Router>
