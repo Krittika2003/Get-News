@@ -8,7 +8,7 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-//c4cdc66ca798406c9907163866bcd299
+
 const App=()=> {
    const page=9;
    const apiKey= process.env.REACT_APP_NEWS_API;
